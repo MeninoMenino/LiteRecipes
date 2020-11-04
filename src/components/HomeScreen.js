@@ -17,7 +17,7 @@ import { NavigationContainer } from "@react-navigation/native";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 
 //Stylesheet
-import styles from "./src/styles/MainScreen";
+import styles from "../styles/MainScreen";
 
 //-----Conteúdo das abas-----
 function homeTab(){
